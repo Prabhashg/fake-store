@@ -53,12 +53,11 @@ th:last-child{
 
 #numOfProductInputBox{
     width: 120px;
-    height: 40px;
+    height: 36px;
     border-radius: 20px;
     font-size: 15px;            
     margin: 0px;
     padding: 0px;
-    border-radius: 20px;
     text-align: center;
 }
 
@@ -66,14 +65,11 @@ th:last-child{
     background-color: rgba(182,228,255,255);
     width: 120px;
     height: 40px;
-    border-radius: 0px;
+    border-radius: 20px;
     font-size: 15px;
-    border: 1px solid red;
     margin: 0px;
     padding: 0px;
-    border-radius: 20px;
     cursor: pointer;
-
 }
 
 #numOfProductBtn:hover{
